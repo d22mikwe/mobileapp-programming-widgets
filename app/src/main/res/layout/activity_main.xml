@@ -13,6 +13,7 @@
         android:layout_width="105dp"
         android:layout_height="wrap_content"
         android:layout_margin="15dp"
+        android:background="#EF0E0E"
         android:text="Button" />
 
     <Button
@@ -20,14 +21,16 @@
         android:layout_width="105dp"
         android:layout_height="wrap_content"
         android:layout_margin="15dp"
+        android:background="#09187C"
         android:text="Button" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
         android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:background="#118E30"
         android:text="Button" />
 
 
