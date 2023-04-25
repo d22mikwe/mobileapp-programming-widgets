@@ -36,5 +36,5 @@ att dem skulle få plats på samma rad.
         android:background="#118E30"
         android:text="I am Green" />
 ```
-
+![](Screenshot_20230425_145529.png)
 
